@@ -1,6 +1,6 @@
 # Laboratorio IA: Aprende sobre herramientas de inteligencia Artificial
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x98i1JmMJPnrs_grkuS5jBQ_bFWrfZe0?authuser=1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1x98i1JmMJPnrs_grkuS5jBQ_bFWrfZe0/view?usp=share_link)
 
 ## Descripción
 Este repositorio contiene un laboratorio introductorio sobre herramientas y conceptos esenciales de inteligencia artificial utilizando Python. A lo largo del laboratorio, exploramos las bases de la programación en Python, manipulación de datos con Pandas y NumPy, clasificación con scikit-learn, y una introducción a las redes neuronales con Keras.
