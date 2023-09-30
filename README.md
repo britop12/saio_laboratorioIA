@@ -1,7 +1,5 @@
 # Laboratorio IA: Aprende sobre herramientas de inteligencia Artificial
 
-# Laboratorio de Introducción a la Inteligencia Artificial en Python
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x98i1JmMJPnrs_grkuS5jBQ_bFWrfZe0?authuser=1#scrollTo=CGOYNgTW7mab)
 
 ## Descripción
