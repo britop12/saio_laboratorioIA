@@ -2,7 +2,7 @@
 
 # Laboratorio de Introducción a la Inteligencia Artificial en Python
 
-## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([URL_DEL_NOTEBOOK](https://colab.research.google.com/drive/1x98i1JmMJPnrs_grkuS5jBQ_bFWrfZe0 authuser=1#scrollTo=CGOYNgTW7mab)https://colab.research.google.com/drive/1x98i1JmMJPnrs_grkuS5jBQ_bFWrfZe0?authuser=1#scrollTo=CGOYNgTW7mab)
+## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([URL_DEL_NOTEBOOK](https://colab.research.google.com/drive/1x98i1JmMJPnrs_grkuS5jBQ_bFWrfZe0authuser=1#scrollTo=CGOYNgTW7mab)https://colab.research.google.com/drive/1x98i1JmMJPnrs_grkuS5jBQ_bFWrfZe0?authuser=1#scrollTo=CGOYNgTW7mab)
 
 ## Descripción
 Este repositorio contiene un laboratorio introductorio sobre herramientas y conceptos esenciales de inteligencia artificial utilizando Python. A lo largo del laboratorio, exploramos las bases de la programación en Python, manipulación de datos con Pandas y NumPy, clasificación con scikit-learn, y una introducción a las redes neuronales con Keras.
